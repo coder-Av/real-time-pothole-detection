@@ -1,5 +1,5 @@
 # Real-time Pothole Detection on Roads using Gradient-based Edge Mapping
-
+*Google Collab Link: "https://colab.research.google.com/drive/1NKlRnQ1Hyr7B_vdCcCkwjmvoRehPjp4G?usp=sharing"* 
 A lightweight, fully classical computer-vision system developed in Python and OpenCV that detects potholes in road images and video streams in real time using gradient-based edge mapping. 
 
 Developed as part of the **CS305 – Computer Vision** course (7th Semester) at the ICFAI Foundation for Higher Education (IFHE), Hyderabad.
